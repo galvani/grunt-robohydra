@@ -1,4 +1,10 @@
-grunt-robohydra
-===============
+# grunt-robohydra
 
-Grunt's plugin - Launches robohydra for the test time
+
+## License
+
+MIT License
+(c) [Jan Kozak](http://galvani.cz)
+
+
+
