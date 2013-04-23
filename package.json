@@ -1,0 +1,38 @@
+{
+  "name": "grunt-robohydra",
+  "version": "0.1.0",
+  "description": "Launch/terminate robohydra with given configuration",
+  "keywords": [
+    "grunt",
+    "robohydra",
+    "background",
+    "spawn"
+  ],
+  "homepage": "http://galvani.cz",
+  "bugs": "http://microsoft.com",
+  "author": {
+    "name": "Jan Kozak",
+    "email": "galvani78@gmail.com",
+    "url": "http://galvani.cz"
+  },
+  "main": "grunt.js",
+  "bin": {
+    "grunt-shell-spawn": "bin/grunt-robohydra"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/galvani/grunt-robohydra.git"
+  },
+  "dependencies": {
+    "grunt": ">=0.4.x",
+	"grun-shell-spawn": ">=0.2.3"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "licenses": {
+    "type": "MIT"
+  },
+  "readme": "# grunt-robohydra",
+  "readmeFilename": "readme.md",
+}
